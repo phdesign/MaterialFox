@@ -546,6 +546,12 @@
 	width: 6px !important;
 	height: 6px !important;
 	border-radius: 99px !important;
+    display: none !important;
+}
+
+.tabbrowser-tab[usercontextid] > .tab-stack > .tab-background > .tab-context-line {
+    height: 4px !important;
+    margin: -7px 2px 0 !important;
 }
 
 /* < 72 */
