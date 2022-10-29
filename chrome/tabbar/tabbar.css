@@ -1,6 +1,6 @@
 :-moz-any(.titlebar-placeholder, .titlebar-spacer)[type=pre-tabs]
 {
-	width: 0 !important;
+	width: 20px !important;
 }
 
 @media (-moz-mac-yosemite-theme)
